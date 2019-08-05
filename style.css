@@ -1,0 +1,12 @@
+/* Add your styles here */
+body {
+    font-family: monospace;
+}
+.msg {
+    color: aqua;
+    height: 50px;
+    width: 100%;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+}
